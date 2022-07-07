@@ -36,8 +36,6 @@ describe("Create category controller", () => {
       password: "admin"
     });
 
-    console.log(responseToken.body);
-
     const { token } = responseToken.body;
 
     const response = await request(app)
@@ -59,8 +57,6 @@ describe("Create category controller", () => {
       email: "admin@rentalx.com.br",
       password: "admin"
     });
-
-    console.log(responseToken.body);
 
     const { token } = responseToken.body;
 
