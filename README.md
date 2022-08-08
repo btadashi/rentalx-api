@@ -4,7 +4,7 @@
 <p align="center">
  <a href="#about">About</a> •
  <a href="#technologies">Technologies</a> •
-  <a href="getting">Getting started</a> •
+ <a href="#getting-started">Getting Started</a> •
  <a href="#contribution">Contribution</a> •
  <a href="#license">License</a> •
  <a href="#author">Author</a>
@@ -28,7 +28,7 @@ The project's been developed using the following technologies:
 - Jest
 - SuperTest
 
-## Getting started
+## Getting Started
 ```bash
 # Clone this repository
 $ git clone https://github.com/btadashi/rentalx-api
