@@ -58,6 +58,6 @@ $ yarn dev:server
 4. Now just push it ```git push origin my-feature```
 5. Submit pull request
 ## License
-This project is under MIT license. 
+This project is under MIT license.
 ## Author
-This project's been developed by <a href="https://www.linkedin.com/in/bruno-yamaguchi/">Bruno Yamaguchi</a> during GoStack Bootcamp.
+This project's been developed by <a href="https://www.linkedin.com/in/bruno-yamaguchi/">Bruno Yamaguchi</a> during Ignite Node.js.
