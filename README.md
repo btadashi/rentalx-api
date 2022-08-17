@@ -1,5 +1,5 @@
 <h1 align="center">Rentalx</h1>
-<p align="center">Node.js api for renting a car</p>
+<p align="center">API for renting a car</p>
 
 <p align="center">
  <a href="#about">About</a> •
@@ -11,7 +11,7 @@
 </p>
 
 ## About
-<p align="justify">Application used to make appointments for barbershop services. The project is divided into back-end (Node.js), front-end (ReactJS) and mobile (React Native).</p>
+<p align="justify">Node.js API for renting car.</p>
 
 
 ## Technologies
@@ -46,7 +46,7 @@ $ docker-compose up -d
 $ yarn typeorm migration:run
 
 # Start application:
-$ yarn dev:server
+$ yarn dev
 
 # Access the api documentation at: http://localhost:3333/api-docs/
 ```
